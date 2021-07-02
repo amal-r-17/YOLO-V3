@@ -16,7 +16,7 @@ find_objects is a single function we can we to do the object detection in an ima
 input image is 
 
 ![cycle](cycle.jpg)
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/amal-r-17/YOLO-V3/blob/main/cycle.jpg" width="48">
 
 When using the function 
 find_objects(cycle (2).jpeg)
