@@ -18,8 +18,8 @@ input image is
 <img src="https://github.com/amal-r-17/YOLO-V3/blob/main/cycle.jpg" width="500">
 
 When using the function 
-find_objects(cycle (2).jpeg)
+### **find_objects(cycle.jpg)**
 
 output obtained is
 
-![output](output.png)
+<img src="https://github.com/amal-r-17/YOLO-V3/blob/main/output.png" width="500">
