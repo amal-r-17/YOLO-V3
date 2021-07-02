@@ -15,7 +15,7 @@ find_objects is a single function we can we to do the object detection in an ima
 
 input image is 
 
-![cycle](cycle (2).jpeg)
+![cycle](cycle.jpg)
 
 When using the function 
 find_objects(cycle (2).jpeg)
