@@ -10,3 +10,9 @@ Post processing the output and extracting the bounding box information from the 
 THe best extracted bounding boxes which are found by the non max suppression(Finds out the best bounding box per object) are plotted on to the image.
 
 find_objects is a single function we can we to do the object detection in an image.
+
+# Sample
+
+input image is 
+
+![cycle](cycle (2).jpeg)
